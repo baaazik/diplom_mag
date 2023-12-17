@@ -1,0 +1,9 @@
+# LaTeX build dir
+build/
+
+# Saved PDF articles
+articles/
+
+# JabRef files
+*.bib.bak
+*.bib.sav.tmp
