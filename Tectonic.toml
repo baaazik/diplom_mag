@@ -3,6 +3,11 @@ name = "master-thesis"
 bundle = "https://data1.fullyjustified.net/tlextras-2022.0r0.tar"
 
 [[output]]
-name = "thesis"
-index = "thesis"
+name = "nir"
+index = "nir"
+type = "pdf"
+
+[[output]]
+name = "kr"
+index = "kr"
 type = "pdf"
